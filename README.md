@@ -43,11 +43,13 @@
 
 ## **Example:**
 
-1. ![picture1](./picture/Answer_Test01.PNG)
+1. 
+![picture1](./picture/Answer_Test01.PNG)
 
    
 
-2. ![picture1](./picture/Answer_Test02.PNG)
+2. 
+![picture1](./picture/Answer_Test02.PNG)
 
    
 
